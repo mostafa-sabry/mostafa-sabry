@@ -9,7 +9,7 @@
 
 - 🌱 I’m learning **Flutter,**
 
-- 💬 Ask me about **dart , flutter, opp**
+- 💬 Ask me about **dart , flutter, oop**
 
 - 📫 How to reach me **engmostafasabry73@gmail.com**
 
